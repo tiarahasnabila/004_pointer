@@ -2,11 +2,8 @@
 using namespace std;
 
 class mahasiswa {
-public;
+public:
 	int nim;
 	void showNim(); //deklarasi method
 };
 
-void mahasiswa::showNim() {
-
-}
